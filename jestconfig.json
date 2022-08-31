@@ -1,4 +1,5 @@
 {
   "collectCoverage": true,
+  "testEnvironment": "jsdom",
   "setupFilesAfterEnv": ["./src/setupTest.js"]
 }

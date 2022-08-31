@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1661950276540" clover="3.2.0">
-  <project timestamp="1661950276541" name="All files">
+<coverage generated="1661952301707" clover="3.2.0">
+  <project timestamp="1661952301708" name="All files">
     <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1" elements="3" coveredelements="3" complexity="0" loc="2" ncloc="2" packages="1" files="1" classes="1"/>
     <file name="App.jsx" path="C:\Users\user\emplate_react_env\my_react_template_environment\src\App.jsx">
       <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
