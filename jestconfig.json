@@ -1,0 +1,4 @@
+{
+  "collectCoverage": true,
+  "setupFilesAfterEnv": ["./src/setupTest.js"]
+}
